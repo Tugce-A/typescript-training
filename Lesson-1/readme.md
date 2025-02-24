@@ -9,14 +9,17 @@ This assignment aims to help students understand fundamental TypeScript topics s
 ## 📁 File Structure
 
 ```bash
-Lesson-11/
-│── Readme.md
-│── variables.ts
-│── functions.ts
-│── conditions.ts
-│── loops.ts
-│── types.ts
+Lesson-1/
+│── homework/
+│   │── README.md
+│   │── variables.ts
+│   │── functions.ts
+│   │── conditions.ts
+│   │── loops.ts
+│   │── types.ts
 ```
+
+All tasks must be implemented inside the `homework` package, and each task should be placed in a separate `.ts` file as specified above.
 
 ## 📜 Assignment Tasks
 
@@ -107,7 +110,7 @@ isPositiveNumber(-3) -> "Negative number"
 
 2. **Submission Deadline:**
 
-   - 24.02.2025 11.30
+   - 26.02.2025 10.30
 
 3. **Evaluation Criteria:**
    - **Is type safety ensured?**
