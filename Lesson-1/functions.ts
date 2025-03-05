@@ -1,5 +1,5 @@
 function greet(name: string): void {
-  console.log(`Hello ${name}`);
+  console.log('Hello ' + name);
 }
 
 greet('Emre'); // Output: Hello Emre
@@ -11,6 +11,7 @@ const greetTwo = (name: string): void => {
 greetTwo('Alice'); // Output: Hello Alice
 
 function greetOne(name: string, age: number): string {
+  var userNumber: number = 5;
   return `Hello ${name}, you are ${age} years old`;
 }
 
